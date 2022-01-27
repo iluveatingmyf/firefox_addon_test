@@ -1,0 +1,249 @@
+{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 1,
+  "name": "webde_mailcheck-6.0.3-fx.xpi",
+  "tabs": 2
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 2,
+  "name": "gmailtm_notifier_restartless-1.0.4-an+fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 3,
+  "name": "gnome_shell_integration-10.1-an+fx-linux.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 4,
+  "name": "distill_web_monitor-1.18.6-fx.xpi",
+  "tabs": 1
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 5,
+  "name": "phishwall-6.1.17.0-fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 6,
+  "name": "poper_blocker_popup_blocker_for_firefox-4.0.8.6-fx.xpi",
+  "tabs": 1
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 7,
+  "name": "keepacom_amazon_preisuberwachung-3.88-an+fx.xpi",
+  "tabs": 1
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 8,
+  "name": "tab_auto_refresh-0.1.8-an+fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 9,
+  "name": "the_camelizer_price_tracker-2.9.7-an+fx-linux.xpi",
+  "tabs": 1
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 10,
+  "name": "checker_plus_for_gmailtm-22.9.1-fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 11,
+  "name": "livemarks-3.4-fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 12,
+  "name": "flagfox-6.1.45-fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 13,
+  "name": "avast_online_security-21.0.68-fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 14,
+  "name": "gmx_mailcheck_fur_ihren_browser-6.0.3-fx.xpi",
+  "tabs": 2
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 15,
+  "name": "weather_extension-5.0.9-fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 16,
+  "name": "prolific_assistant-3.10.0-an+fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 17,
+  "name": "adblocker_lite-0.4.3-an+fx.xpi",
+  "tabs": 1
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 18,
+  "name": "check4change-2.2.4-fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 19,
+  "name": "mind_the_time-2.3.0-an+fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 20,
+  "name": "tomato_clock-6.0.2-an+fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 21,
+  "name": "easyfundraising_donation_reminder-4.13.5.0-fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 22,
+  "name": "priceblink_price_comp_coupons-8.57-an+fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 23,
+  "name": "country_flag-0.2.3-an+fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 24,
+  "name": "popup_blocker_strict-0.6.8-an+fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 25,
+  "name": "textarea_cache-4.2.1-fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 26,
+  "name": "ciuvo_preisvergleich_im_browser-1.6.13-an+fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 27,
+  "name": "want_my_rss-0.20-an+fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 28,
+  "name": "g_app_launcher_googletm_shortcuts-24.3.1-an+fx.xpi",
+  "tabs": 1
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 29,
+  "name": "myworld_plug_in-2.0.11-fx.xpi",
+  "tabs": 0
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 30,
+  "name": "timer_alarm_timer_and_stopwatch-0.1.1-an+fx.xpi",
+  "tabs": 1
+}{
+  "fingerprints": {
+    "MSG": "[]",
+    "http": "[]"
+  },
+  "index": 31,
+  "name": "feeder-7.7.3-fx.xpi",
+  "tabs": 1
+}
