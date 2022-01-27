@@ -37,8 +37,8 @@ def generate_uninstall_json(url):
         setting_file.close()
 
 if __name__ == '__main__':
-        source_path = './URL/bookmarks_url.txt'
-        dst_path = './FIN/bookmarks_url.txt'
+        source_path = './URL/other_url.txt'
+        dst_path = './FIN/other_url.txt'
         url_to_honeysite = 'file:///home/parallels/Downloads/pythonProject/honey/views/index.html'
         stdout = open(dst_path,'a')
         url_list = open(source_path)
