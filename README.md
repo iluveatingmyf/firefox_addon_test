@@ -11,8 +11,9 @@
 【运行步骤】
 1. root权限运行setup.sh 安装依赖
 2. cd ./venv/ && source bin/activate 启动虚拟环境
-3. 修改silent_install.py中的变量，具体内容如下方【注】所示
-4. python运行 silent_install.py 即可
+3. cd honeysite目录，npm start启动之后，可以通过localhost:3000访问honeysite
+4. 修改silent_install.py中的变量，具体内容如下方【注】所示
+5. python运行 silent_install.py 即可
 #可能显示存在部分安装包需要pip安装
 
 
@@ -20,4 +21,4 @@
 分别修改silent_install.py中的以下环境变量
 1. source_path 目标输入文件的地址（41行）
 2. dst_path  测试输出结果存放地址（42行）
-3. url_to_honeysite = honeysite项目中index.html的目录（43行
+3. url_to_honeysite = honeysite项目中index.html的目录（43行)
